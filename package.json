@@ -1,0 +1,20 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "node tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelwlu/node-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/michaelwlu/node-tutorial#readme"
+}
